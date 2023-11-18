@@ -1,12 +1,18 @@
 # Learning activities and resources
 This week, I focused on a sub-theme related to HTML and how to design and publish websites. I set up a sub-theme, specifically about designing websites and making them accessible online. After completing practical exercises, I also explored YouTube courses and learned about Google API key for creating web maps. I also studied website design templates. I believe this comprehensive understanding of the sub-theme could be helpful for our group assignment.
-URLs:
+# URLs:
 GitHub: https://github.com/A-Lang-Y/
+
 Visual Studio Code Source Control Overview: https://code.visualstudio.com/docs/sourcecontrol/overview
+
 W3Schools HTML Tutorial: https://www.w3schools.com/html/default.asp
+
 How to Host a Website for Free - CareerFoundry: https://careerfoundry.com/en/blog/web-development/how-to-host-a-website-for-free/
+
 Best Web Hosting For Wordpress 2023 - YouTube: https://www.youtube.com/watch?app=desktop&v=0UbTeL0dvm8
+
 CS Free Website Template - Free CSS Templates: https://www.free-css.com/free-css-templates/page281/cs
+
 Google Maps Platform Solution by Searce: https://searce.com/google-maps-platform?gclid=CjwKCAiAu9yqBhBmEiwAHTx5p_6mw6oe9M2R8IJHRHMZzR9JvnGAuPaT4gtA76KT9sfkY5MiQS3GqRoCdFkQAvD_BwE
 # Estimated Time
 I spent approximately 4 hours of personal time this week studying this sub-theme, including the time spent on the assignment.
